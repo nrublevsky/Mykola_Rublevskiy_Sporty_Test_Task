@@ -69,7 +69,7 @@ Out of scope:
 ### [SBQA-TC4] - Verify Potential Payout value is calculated consistently across Bet Placing Flow
 ### [SBQA-TC5] - Verify Odds filter max value can't be lower than min value
 ### [SBQA-TC6] - Verify "Showing N matches" displays correct amount of matches after applying filters
-
+###
 _______________
 ### [SBQA-TC1] - Verify user can place a bet with sufficient amount for an upcoming match
 #### Priority: **Critical**
